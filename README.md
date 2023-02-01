@@ -13,11 +13,11 @@ Instrutora: [Karen Santos](https://www.linkedin.com/in/karenasantos/)
 
 <br>
 
-## 📐 [Layout do projeto no Figma](https://www.figma.com/file/tpsLBEdpc2zYcxHkDboL8K/Flexbox---DIO?node-id=2%3A0&t=HkDXq2aIT7zExwAr-0)
+### 📐 [Layout do projeto no Figma](https://www.figma.com/file/tpsLBEdpc2zYcxHkDboL8K/Flexbox---DIO?node-id=2%3A0&t=HkDXq2aIT7zExwAr-0)
 
 <br>
 
-## 💻 [Projeto finalizado no GitHub Pages]()
+### 💻 [Projeto finalizado no GitHub Pages]()
 
 <br>
 
@@ -27,13 +27,13 @@ Instrutora: [Karen Santos](https://www.linkedin.com/in/karenasantos/)
 
 # 👩‍🎨 Fonte e cores utilizadas
 
-## ✧ [Fonte Roboto](https://fonts.google.com/specimen/Roboto)
+### ✧ [Fonte Roboto](https://fonts.google.com/specimen/Roboto)
 
 <br>
 
 <br>
 
-## ✧ Cores
+### ✧ Cores
 
     --blue: #122A57;
     --branco: #fff;
